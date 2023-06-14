@@ -4,9 +4,12 @@
 - 
 - 🌱 I’m currently learning Java/Linux
 - 
-- 📜 Certificate: -W3Schools Certified Java Developer with fundamental knowledge of programming using Java(2022)
+- 📜 Certificate: -Oracle Certified Associate Java SE 8 (2023)
+                  -Oracle Certified Professional Java - ongoing
                   -Oracle Learning Explorer Java 8 (2023)
-                  -Oracle Certified Associate Java SE 8 - ongoing(2023)
+                  -W3Schools Certified Java Developer with fundamental knowledge of programming using Java(2022)
+
+                  
                   
 - 📚 Courses: -Oracle Java Explorer - 2023
               -Stanford CS106A-Programming Methodology - 2022
