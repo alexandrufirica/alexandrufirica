@@ -2,8 +2,6 @@
 - 
 - 👀 I’m interested in Software Development and Testing
 - 
-- 🌱 I’m currently learning Java/Linux
-- 
 - 📜 Certificate: -Oracle Certified Associate Java SE 8 (2023)
                   -Oracle Certified Professional Java - ongoing
                   -Oracle Learning Explorer Java 8 (2023)
