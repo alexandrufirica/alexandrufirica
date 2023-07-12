@@ -14,5 +14,6 @@
               -W3Schools – Java Tutorial - 2022
               
 - 📫 How to reach me: e-mail: firica.alexandru@yahoo.com
+                      Linked-in: https://www.linkedin.com/in/firica-alexandru/
 
 
