@@ -7,7 +7,7 @@
                   -Oracle Learning Explorer Java 8 (2023)
                   -W3Schools Certified Java Developer with fundamental knowledge of programming using Java(2022)
 -
-- 🛠️Tools: Eclipse IDE, IntelliJ IDE, Maven, Git, SpringBoot, JUnit 5, Apache Tomcat, Postman, PostgreSQL, Hibernate.
+- 🛠️Tools: Eclipse IDE, IntelliJ IDE, Maven, Git, SpringBoot, JUnit 5, Apache Tomcat, Postman, PostgreSQL, Hibernate, Vaadin.
 -               
 - 📚 Courses: -Oracle Java Explorer - 2023
               -Stanford CS106A-Programming Methodology - 2022
